@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/shoxruxxamrayev/react-pizza-site.git/static/js/main.d191a726.chunk.js",
+    "main.js.map": "/shoxruxxamrayev/react-pizza-site.git/static/js/main.d191a726.chunk.js.map",
+    "runtime-main.js": "/shoxruxxamrayev/react-pizza-site.git/static/js/runtime-main.66d6f6df.js",
+    "runtime-main.js.map": "/shoxruxxamrayev/react-pizza-site.git/static/js/runtime-main.66d6f6df.js.map",
+    "static/js/2.6e082d53.chunk.js": "/shoxruxxamrayev/react-pizza-site.git/static/js/2.6e082d53.chunk.js",
+    "static/js/2.6e082d53.chunk.js.map": "/shoxruxxamrayev/react-pizza-site.git/static/js/2.6e082d53.chunk.js.map",
+    "static/js/3.5ebf635e.chunk.js": "/shoxruxxamrayev/react-pizza-site.git/static/js/3.5ebf635e.chunk.js",
+    "static/js/3.5ebf635e.chunk.js.map": "/shoxruxxamrayev/react-pizza-site.git/static/js/3.5ebf635e.chunk.js.map",
+    "index.html": "/shoxruxxamrayev/react-pizza-site.git/index.html",
+    "static/js/2.6e082d53.chunk.js.LICENSE.txt": "/shoxruxxamrayev/react-pizza-site.git/static/js/2.6e082d53.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/shoxruxxamrayev/react-pizza-site.git/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d6f6df.js",
+    "static/js/2.6e082d53.chunk.js",
+    "static/js/main.d191a726.chunk.js"
+  ]
+}
